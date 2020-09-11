@@ -1,2 +1,2 @@
-# NeedForJS
-Game on JS
+# GloAcademy_Day1
+Homework
